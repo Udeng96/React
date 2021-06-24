@@ -1,5 +1,8 @@
 # React SPA를 사용한 Shopping Mall 제작 클론 코딩
 
+![image](https://user-images.githubusercontent.com/77419176/123251750-84e4e900-d526-11eb-824a-989e84bb2341.png)
+
+
 ### 기능
 
 1. 리스트를 사용하여 Item 구성. video를 사용
