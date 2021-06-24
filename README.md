@@ -1,3 +1,12 @@
+# React SPA를 사용한 Shopping Mall 제작 클론 코딩
+
+### 기능
+
+1. 리스트를 사용하여 Item 구성. video를 사용
+2. 버튼을 클릭하면 Order List에 등록
+3. X 버튼을 누르면 Order List에서 제거
+4. 휴지통 버튼을 누르면 Order List 완전히 제거
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
